@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  PLAYGO INDIA™
+  PlayGoIndia™
 </h1>
 
 <p align="center">
