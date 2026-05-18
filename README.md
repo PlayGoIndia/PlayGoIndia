@@ -1,4 +1,16 @@
-## PlayGoIndia™
+<p align="center">
+  <img src="assets/logo.png" width="180">
+</p>
+
+<h1 align="center">
+  PLAYGO INDIA™
+</h1>
+
+<p align="center">
+Digital Chess Education, AI Learning Systems & Technology Initiatives from India.
+</p>
+
+## PlayGoIndia
 ## About
 AI Learning Systems through digital Chess Education, and Future Technology Initiatives from India.
 ## Vision
