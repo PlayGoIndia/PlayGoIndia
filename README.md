@@ -2,7 +2,7 @@ Add file
 Upload files
 assets/logo.jpg
 <p align="center">
-  <img src="assets/logo.png" width="180">
+  <img src="assets/logo.png" width="220">
 </p>
 
 <h1 align="center">
