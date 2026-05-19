@@ -1,3 +1,6 @@
+Add file
+Upload files
+assets/logo.jpg
 <p align="center">
   <img src="assets/logo.png" width="180">
 </p>
