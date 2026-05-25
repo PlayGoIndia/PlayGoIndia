@@ -1,6 +1,6 @@
 Add file
 Upload files
-PlayGoIndia-assets/TradeMark.PlaygoIndia.jpg
+TradeMark.PlaygoIndia.jpg
 <p align="center">
   <img src="assets/logo.png" width="220">
 </p>
