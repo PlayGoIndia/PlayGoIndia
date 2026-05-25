@@ -2,7 +2,7 @@ Add file
 Upload files
 PlayGoIndia-Asset/TradeMark.PlaygoIndia.jpg
 <p align="center">
-  <img src="assets/logo.png" width="180">
+  <img src="assets/logo.png" width="220">
 </p>
 
 <h1 align="center">
