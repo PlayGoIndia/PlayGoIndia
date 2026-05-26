@@ -1,6 +1,6 @@
 Add file
 Upload files
-logo.jpg
+![PlayGoIndia Logo](logo.jpg)
 <p align="center">
   <img src="assets/logo.jpg" width="220">
 </p>
